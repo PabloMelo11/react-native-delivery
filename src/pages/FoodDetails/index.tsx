@@ -212,10 +212,7 @@ const FoodDetails: React.FC = () => {
 
     await api.post('/orders', order);
 
-    navigation.reset({
-      routes: [{ name: 'Dashboard' }],
-      index: 0,
-    });
+    navigation.navigate('Dashboard');
   }
 
   const favoriteIconName = useMemo(
