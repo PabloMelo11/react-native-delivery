@@ -2,6 +2,10 @@
 <img src="https://ik.imagekit.io/rmpz8b4ytr/logo_gostack_xOQ3emgGa.png"/>
 </p>
 
+<h1 align="center">
+    <img alt="App-GoBarber" title="App-GoBarber" src=".github/video.gif" />
+</h1>
+
 ## 🚀 About application
 
 - This application will be the mobile version of a restaurant, allowing you to place new orders, favorites and list all dishes.
